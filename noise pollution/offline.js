@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1769833095,
+	"version": 1769834108,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/tiledbackground4.png",
 		"images/tiledbackground5.png",
 		"images/tiledbackground6.png",
+		"images/st-sheet0.png",
 		"images/tiledbackground7.png",
 		"images/tiledbackground8.png",
 		"images/tiledbackground9.png",
@@ -32,6 +33,12 @@
 		"images/tiledbackground25.png",
 		"images/tiledbackground26.png",
 		"images/tiledbackground27.png",
-		"images/tiledbackground28.png"
+		"images/tiledbackground28.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
 	]
 }

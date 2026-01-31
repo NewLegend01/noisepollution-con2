@@ -18647,11 +18647,10 @@ cr.plugins_.Touch = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser,
-	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Browser.prototype.acts.GoToURL
 ];};
-
